@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<quiz>
+	<easy>
+		<item>
+			<question>Entomology is the science that studies</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Behavior of human beings</answer>
+			<answer>Insects</answer>
+			<answer>The origin and history of technical and scientific terms</answer>
+			<answer>The formation of rocks</answer>
+		</item>
+		<item>
+			<asked>false</asked>
+			<question>What is part of a database that holds only one type of information?</question>
+			<correct>1</correct>
+			<answer>Report</answer>
+			<answer>Field</answer>
+			<answer>Record</answer>
+			<answer>File</answer>
+		</item>
+		<item>
+			<asked>false</asked>
+			<question>'OS' computer abbreviation usually means ?</question>
+			<correct>2</correct>
+			<answer>Order of Significance</answer>
+			<answer>Open Software</answer>
+			<answer>Operating System</answer>
+			<answer>Optical Sensor</answer>
+		</item>
+		<item>
+			<asked>false</asked>
+			<question>'DB' computer abbreviation usually means ?</question>
+			<correct>0</correct>
+			<answer>Database</answer>
+			<answer>Double Byte</answer>
+			<answer>Data Block</answer>
+			<answer>Driver Boot</answer>
+		</item>
+		<item>
+			<question>What's a web browser?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>A kind of spider</answer>
+			<answer>A computer that stores WWW files</answer>
+			<answer>A person who likes to look at websites</answer>
+			<answer>A software program that allows you to access sites on the World Wide Web</answer>
+		</item>
+		<item>
+			<question>How many bits is a byte?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>4bits</answer>
+			<answer>8bits</answer>
+			<answer>16bits</answer>
+			<answer>32bits</answer>
+		</item>
+		<item>
+			<question>Philology is the</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>study of bones</answer>
+			<answer>study of muscles</answer>
+			<answer>study of architecture</answer>
+			<answer>science of languages</answer>
+		</item>
+		<item>
+			<question>The 2006 World Cup Football Tournament held in</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>France</answer>
+			<answer>China</answer>
+			<answer>Germany</answer>
+			<answer>Brazil</answer>
+		</item>
+		<item>
+			<question>Study of life in outer space is known as</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>endbiology</answer>
+			<answer>exobiology</answer>
+			<answer>enterbiology</answer>
+			<answer>neobiology</answer>
+		</item>
+		<item>
+			<question>Pythagoras was first to ____ the universal validity of geometrical theorem.</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>give</answer>
+			<answer>prove</answer>
+			<answer>both of the above</answer>
+			<answer>None of the above</answer>
+		</item>
+		<item>
+			<question>Penicillin is widely used as</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>an antiseptic</answer>
+			<answer>a disinfectant</answer>
+			<answer>an antibiotic</answer>
+			<answer>an insecticide</answer>
+		</item>
+		<item>
+			<question>Richter scale is used for measuring</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>density of liquid</answer>
+			<answer>intensity of earthquakes</answer>
+			<answer>velocity of wind</answer>
+			<answer>humidity of air</answer>
+		</item>
+		<item>
+			<question>Paleontology is a branch of science that deals with the</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>behavior of animals</answer>
+			<answer>origin and growth of plants</answer>
+			<answer>the forms of life as revealed by fossils of animals or plants</answer>
+			<answer>formation of new stars</answer>
+		</item>
+		<item>
+			<question>The great Victoria Desert is located in</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Canada</answer>
+			<answer>West Africa</answer>
+			<answer>Australia</answer>
+			<answer>North America</answer>
+		</item>
+		<item>
+			<question>The host of first Olympics in 1896 was</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Athens, Greece</answer>
+			<answer>Paris, France</answer>
+			<answer>London, Great Britain</answer>
+			<answer>Los Angeles, USA</answer>
+		</item>
+		<item>
+			<question>The largest city of India is</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>New Delhi</answer>
+			<answer>Mumbai</answer>
+			<answer>Kolkata</answer>
+			<answer>Chennai</answer>
+		</item>
+		<item>
+			<question>Which motor is NOT suitable for use as a DC machine?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Permanent magnet motor</answer>
+			<answer>Series motor</answer>
+			<answer>Squirrel cage motor</answer>
+			<answer>Synchronous motor</answer>
+		</item>
+		<item>
+			<question>'.INI' extension refers usually to what kind of file?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Image file</answer>
+			<answer>System file</answer>
+			<answer>Hypertext related file</answer>
+			<answer>Image Color Matching Profile file</answer>
+		</item>
+		<item>
+			<question>Who created Pretty Good Privacy (PGP)?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Phil Zimmermann</answer>
+			<answer>Tim Berners-Lee</answer>
+			<answer>Marc Andreessen</answer>
+			<answer>Ken Thompson</answer>
+		</item>
+		<item>
+			<question>What do we call a network whose elements may be separated by some distance? It usually involves two or more small networks and dedicated high-speed telephone lines.</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>URL (Universal Resource Locator)</answer>
+			<answer>LAN (Local Area Network)</answer>
+			<answer>WAN (Wide Area Network)</answer>
+			<answer>World Wide Web</answer>
+		</item>
+		<item>
+			<question>After the first photons of light are produced, which process is responsible for amplification of the light?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Blackbody radiation</answer>
+			<answer>Stimulated emission</answer>
+			<answer>Planck's radiation</answer>
+			<answer>Einstein oscillation</answer>
+		</item>
+		<item>
+			<question>'.TMP' extension refers usually to what kind of file?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Compressed Archive file</answer>
+			<answer>Image file</answer>
+			<answer>Temporary file</answer>
+			<answer>Audio file</answer>
+		</item>
+		<item>
+			<question>In the United States the television broadcast standard is...?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>PAL</answer>
+			<answer>NTSC</answer>
+			<answer>SECAM</answer>
+			<answer>RGB</answer>
+		</item>
+		<item>
+			<question>The transformer that develops the high voltage in a home television is commonly called a...?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Tesla coil</answer>
+			<answer>Flyback</answer>
+			<answer>Yoke</answer>
+			<answer>Van de Graaf</answer>
+		</item>
+		<item>
+			<question>Which consists of two plates separated by a dielectric and can store a charge?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Inductor</answer>
+			<answer>Capacitor</answer>
+			<answer>Transistor</answer>
+			<answer>Relay</answer>
+		</item>
+		
+	</easy>
+	<medium>
+		<item>
+			<question>Blue is what number on the resistor color code?</question>
+			<correct>3</correct>
+			<answer>1</answer>
+			<answer>4</answer>
+			<answer>2</answer>
+			<answer>6</answer>
+		</item>
+		<item>
+			<question>Changing computer language of 1's and 0's to characters that a person can understand is...</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Highlight</answer>
+			<answer>Clip art</answer>
+			<answer>Decode</answer>
+			<answer>Execute</answer>
+		</item>
+		<item>
+			<question>http://www.indiabix.com - is an example of what?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>A URL</answer>
+			<answer>An access code</answer>
+			<answer>A directory</answer>
+			<answer>A server</answer>
+		</item>
+		<item>
+			<question>How do you subscribe to an Internet mailing list?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Contact your Internet service provider</answer>
+			<answer>Send e-mail to the list manager</answer>
+			<answer>Telephone the mailing list webmaster</answer>
+			<answer>Send a letter to the list</answer>
+		</item>
+		<item>
+			<question>Computers calculate numbers in what mode?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Decimal</answer>
+			<answer>Octal</answer>
+			<answer>Binary</answer>
+			<answer>None of the above</answer>
+		</item>
+		<item>
+			<question>What is an FET?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Farad Effect Transformer</answer>
+			<answer>Field Effect Transformer</answer>
+			<answer>Field Effect Transistor</answer>
+			<answer>French Energy Transfer</answer>
+		</item>	
+		<item>
+			<question>The speed of your net access is defined in terms of...</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>RAM</answer>
+			<answer>MHz</answer>
+			<answer>Kbps</answer>
+			<answer>Megabytes</answer>
+		</item>	
+		<item>
+			<question>How many diodes are in a full wave bridge rectifier?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>8</answer>
+			<answer>2</answer>
+			<answer>4</answer>
+			<answer>3</answer>
+		</item>	
+		<item>
+			<question>The "desktop" of a computer refers to:</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>The visible screen</answer>
+			<answer>The area around the monitor</answer>
+			<answer>The top of the mouse pad</answer>
+			<answer>The inside of a folder</answer>
+		</item>	
+		<item>
+			<question>Which of these is a search engine?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>FTP</answer>
+			<answer>Google</answer>
+			<answer>Archie</answer>
+			<answer>ARPANET</answer>
+		</item>	
+		<item>
+			<question>The letters, "DOS" stand for...</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Data Out System</answer>
+			<answer>Disk Out System</answer>
+			<answer>Disk Operating System</answer>
+			<answer>Data Operating System</answer>
+		</item>	
+		<item>
+			<question>What does CPU stand for?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>Cute People United</answer>
+			<answer>Commonwealth Press Union</answer>
+			<answer>Computer Parts of USA</answer>
+			<answer>Central Processing Unit</answer>
+		</item>	
+		<item>
+			<question>Which of these is a valid e-mail address?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>professor.at.learnthenet</answer>
+			<answer>www.learnthenet.com</answer>
+			<answer>professor@learnthenet.com</answer>
+			<answer>professor@learnthenet</answer>
+		</item>	
+		<item>
+			<question>Modem stands for...</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Modulator Demodulater</answer>
+			<answer>Monetary Devaluation Exchange Mechanism</answer>
+			<answer>Memory Demagnetization</answer>
+			<answer>Monetary Demarkation</answer>
+		</item>	
+		<item>
+			<question>What is the difference between the Internet and an intranet?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>One is public, the other is private</answer>
+			<answer>One is safer than the other</answer>
+			<answer>One can be monitored, the other can't</answer>
+			<answer>None of the above</answer>
+		</item>	
+		<item>
+			<question>In a Digital circuit, what is 1 'AND' 1?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>0</answer>
+			<answer>1</answer>
+			<answer>2</answer>
+			<answer>4</answer>
+		</item>	
+		<item>
+			<question>Your computer has gradually slowed down. What's the most likely cause?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Overheating</answer>
+			<answer>Your processor chip is just getting old</answer>
+			<answer>Adware/spyware is infecting your PC</answer>
+			<answer>You dropped a sandwich in your computer</answer>
+		</item>	
+		<item>
+			<question>In which decade was the transistor invented?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>1940s</answer>
+			<answer>1950s</answer>
+			<answer>1960s</answer>
+			<answer>1980s</answer>
+		</item>	
+		<item>
+			<question>A JPG is...</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>A Jumper Programmed Graphic</answer>
+			<answer>A format for an image file</answer>
+			<answer>A type of hard disk</answer>
+			<answer>A unit of measure for memory</answer>
+		</item>	
+		<item>
+			<question>A dual-layer DVD is valued because it:</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Can hold more data</answer>
+			<answer>Contains a backup of the data stored</answer>
+			<answer>Uses a second layer to offer a speed increase</answer>
+			<answer>Creates alternative sound tracks</answer>
+		</item>
+		<item>
+			<question>To select text by shading as you drag the mouse arrow over the text is known as...</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Clip art</answer>
+			<answer>To highlight</answer>
+			<answer>To fetch</answer>
+			<answer>To decode</answer>
+		</item>
+		<item>
+			<question>Another word for 'Graphics for a word processor'?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Peripheral</answer>
+			<answer>Clip art</answer>
+			<answer>Highlight</answer>
+			<answer>Execute</answer>
+		</item>
+		<item>
+			<question>Which was an early mainframe computer?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>ENIAC</answer>
+			<answer>UNIC</answer>
+			<answer>BRAINIA</answer>
+			<answer>FUNTRIA</answer>
+		</item>
+		<item>
+			<question>Experts say the healthiest way to view a computer monitor is by...</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Placing it 18 to 30 inches away from your eyes</answer>
+			<answer>Viewing from a darkened room</answer>
+			<answer>Adjusting the screen for maximum contrast</answer>
+			<answer>Using special glasses that filter out UV rays</answer>
+		</item>
+		<item>
+			<question>Name the terminals of a BJT.</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>Drain, Gate, Source</answer>
+			<answer>Positive, Negative, Neutral</answer>
+			<answer>Anode, Cathode, Triode</answer>
+			<answer>Emitter, Base, Collector</answer>
+		</item>
+	</medium>
+	<hard>
+		<item>
+			<question>In which decade were the first successful diode and triode vacuum tubes invented?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>1800s</answer>
+			<answer>1880s</answer>
+			<answer>1890s</answer>
+			<answer>1900s</answer>
+		</item>
+		<item>
+			<question>How can you catch a computer virus?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>Sending e-mail messages</answer>
+			<answer>Using a laptop during the winter</answer>
+			<answer>Opening e-mail attachments</answer>
+			<answer>Shopping online</answer>
+		</item>
+		<item>
+			<question>A DV camcorder is...</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Capable of creating video in HDTV</answer>
+			<answer>Used to create digital video</answer>
+			<answer>Limited to the Direct Video format</answer>
+			<answer>A Denon Video brand product</answer>
+		</item>
+		<item>
+			<question>What are the 2 terminals of a diode called?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>Pentode and Triode</answer>
+			<answer>Gate and Drain</answer>
+			<answer>Drain and Source</answer>
+			<answer>Anode and Cathode</answer>
+		</item>
+		<item>
+			<question>A coating of dust on a computer's main circuit boards has this probable consequence</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Overheating</answer>
+			<answer>Short circuits</answer>
+			<answer>Slower hard disk</answer>
+			<answer>None</answer>
+		</item>
+		<item>
+			<question>How many terminals does a BJT have?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>1</answer>
+			<answer>5</answer>
+			<answer>4</answer>
+			<answer>3</answer>
+		</item>	
+		<item>
+			<question>What is a BJT?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Bit Junction Transfer</answer>
+			<answer>Bi-polar Junction Transistor</answer>
+			<answer>Bell Jar Transformer</answer>
+			<answer>Back Junction Transformer</answer>
+		</item>	
+		<item>
+			<question>Which is not an internet protocol?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>HTTP</answer>
+			<answer>FTP</answer>
+			<answer>STP</answer>
+			<answer>IP</answer>
+		</item>	
+		<item>
+			<question>AOL stands for...</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>Arranged Outer Line</answer>
+			<answer>America Over LAN</answer>
+			<answer>Audio Over LAN</answer>
+			<answer>America Online</answer>
+		</item>	
+		<item>
+			<question>What are the three main search expressions, or operators, recognized by Boolean logic?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>FROM, TO, WHOM</answer>
+			<answer>AND, OR, NOT</answer>
+			<answer>SEARCH, KEYWORD, TEXT</answer>
+			<answer>AND, OR, BUT</answer>
+		</item>	
+		<item>
+			<question>Which of these is not a computer?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>Aptiva</answer>
+			<answer>Macintosh</answer>
+			<answer>Acorn</answer>
+			<answer>Paseo</answer>
+		</item>	
+		<item>
+			<question>Which countries from the membership of CACM (Central American Common Market)?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Costa Rica, EI Salvador, Guatemala, Honduras, Nicaragua</answer>
+			<answer>Bogota, EI Salvedor, Honduras</answer>
+			<answer>Washington DC, Bogota, Guatemala</answer>
+			<answer>All of the above</answer>
+		</item>	
+		<item>
+			<question>Which company manufacturers low and high power communication equipment like radius for the use of defence services and paramilitary organisations?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Bharat Electronics Limited (BEL)</answer>
+			<answer>God Shipyard Limited (GSL)</answer>
+			<answer>Bharat Dynamic Limited (BDL)</answer>
+			<answer>None of the above</answer>
+		</item>	
+		<item>
+			<question>Where is the Judicature of Orissa?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Bhubaneswar</answer>
+			<answer>Cuttack</answer>
+			<answer>Both</answer>
+			<answer>None of the above</answer>
+		</item>	
+		<item>
+			<question>Which of the following are the members of SAARC (South Asian Association for Regional Cooperation)?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Bhutan, Bangladesh, India and Pakistan</answer>
+			<answer>Bhutan, Bangladesh, the Maldives, Nepal, India, Pakistan, Afghanistan and Sri Lanka</answer>
+			<answer>Afghanistan, Pakistan, Thailand, Indonesia, Nepal and Sri Lanka</answer>
+			<answer>None of the above</answer>
+		</item>	
+		<item>
+			<question>Where is the permanent secretariat of the SAARC?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Kathmandu</answer>
+			<answer>New Delhi</answer>
+			<answer>Islamabad</answer>
+			<answer>Colombo</answer>
+		</item>	
+		<item>
+			<question>Which is the oldest paramilitary force in the country?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Border Security Force (BSF)</answer>
+			<answer>Assam Rifles</answer>
+			<answer>Indo-Tibetan Border Police (ITBP)</answer>
+			<answer>Coast Guard</answer>
+		</item>	
+		<item>
+			<question>When was Mahatma Gandhi assassinated?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>1948</answer>
+			<answer>1951</answer>
+			<answer>1958</answer>
+			<answer>1971</answer>
+		</item>	
+		<item>
+			<question>Which is the India's largest and the oldest museum?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Indian Museum, Kolkata</answer>
+			<answer>National Museum, New Delhi</answer>
+			<answer>Allahabad Museum</answer>
+			<answer>Salar Jung Museum, Hyderabad</answer>
+		</item>	
+		<item>
+			<question>When was pottery developed in the Indus Valley?</question>
+			<asked>false</asked>
+			<correct>2</correct>
+			<answer>5000 BC</answer>
+			<answer>6000 BC</answer>
+			<answer>3500 BC</answer>
+			<answer>2600 BC</answer>
+		</item>
+		<item>
+			<question>Which Academy promotes and develops literature in all the 22 languages of India?</question>
+			<asked>false</asked>
+			<correct>0</correct>
+			<answer>Sahitya Academy</answer>
+			<answer>Sangeet Natak Academy</answer>
+			<answer>Lalit Kala Academy</answer>
+			<answer>None of the above</answer>
+		</item>	
+		<item>
+			<question>Which of the following causes Poliomyelitis?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>Dengue virus</answer>
+			<answer>Enterovirus</answer>
+			<answer>Mumps virus</answer>
+			<answer>Rhabdovirus</answer>
+		</item>	
+		<item>
+			<question>Where is the BARC's Research Centre?</question>
+			<asked>false</asked>
+			<correct>3</correct>
+			<answer>Variable Energy Cyclotron Centre, Kolkata</answer>
+			<answer>Nuclear Research Lab, Kashmir</answer>
+			<answer>High Altitude Research Lab, Gulmarg</answer>
+			<answer>All of the above</answer>
+		</item>	
+		<item>
+			<question>Zawar (Rajasthan) is famous for</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>ship manufacturing</answer>
+			<answer>zinc mines</answer>
+			<answer>salt</answer>
+			<answer>major port</answer>
+		</item>	
+		<item>
+			<question>Which of the following cities will be the host of XIX Commonwealth Games 2010?</question>
+			<asked>false</asked>
+			<correct>1</correct>
+			<answer>London</answer>
+			<answer>Delhi</answer>
+			<answer>Melbourne</answer>
+			<answer>Auckland</answer>
+		</item>			
+	</hard>
+</quiz>

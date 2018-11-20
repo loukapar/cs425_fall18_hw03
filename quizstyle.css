@@ -1,0 +1,311 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.font-style {
+	font-family: 'Shadows Into Light Two', cursive;
+}
+
+body { 
+  background: url("resources/background-image.jpg") center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+* {
+ box-sizing: border-box;
+}
+
+.nav-active {
+	color: white !important;
+}
+
+*:before,
+*:after {
+ box-sizing: border-box;
+}
+
+div.container {
+	height: 65%;
+	margin-top: 1%;
+}
+.finishcontainer {
+	height:auto !important;
+}
+
+form.container {
+	height: 100%;
+	border: 1px solid white;
+	border-radius: 16px;
+	position: relative;
+	padding: 2%;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+.onFinishForm {
+	border: 0 !important;
+	border-radius: 0 !important;
+}
+
+.welcomeContainer {
+	padding: 0;
+	width: 95%;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	word-wrap: break-word
+}
+
+.welcomeContainer p {
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+
+.welcomeContainer input[type=submit] {
+	font-weight: bolder;
+	text-align: center;
+}
+
+#numberofquestions{
+	color: white;
+	padding-bottom: 0.5%;
+	margin: 0;
+	text-align: center;
+	font-size: 1.6em;
+	font-weight: lighter;
+}
+
+#question {
+	color: white;
+	padding: 1%;
+	text-align: center;
+	font-size: 1.6em;
+	word-wrap: break-word;
+	font-weight: bold;
+}
+
+label.choice{
+	color: white;
+	padding-left: 10px;
+	margin-left: 0.5%;
+	font-size: 1.4em;
+	word-wrap: break-word;
+	font-weight: bold;
+	width: 90%;
+}
+
+label.choice:hover {
+	border-radius: 16px;
+	background: rgb(0, 0, 0); /* Fallback color */
+	background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+}
+
+input[type="radio"]:checked+label { 
+	border-radius: 16px;
+	background: rgb(0, 0, 0); /* Fallback color */
+	background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+}
+
+#onGamebtn {
+	width: 100%;
+	text-align: center;
+}
+
+#onGamebtn input[type="submit"]{
+	width: 35%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.tablecontainer {
+	border: 1px solid white;
+	border-radius: 16px;
+	height: auto;
+	width: auto;
+	padding: 1%;
+}
+
+.table {
+	margin-bottom: 0 !important;
+	margin: auto;
+	color: white;
+	text-align: center;
+}
+
+#tableTitle {
+	font-size: 1.4em;
+	color: white;
+	font-weight: lighter;
+	text-align: center;
+	padding: 0 0 0.5% 0;
+	margin: 0;
+}
+
+#totalScore {
+	font-size: 1.3em;
+	color: white;
+	padding: 0 0 0.5% 0;
+	margin: 0;
+	text-align: center;
+}
+
+.scoreBtms {
+	padding: 0.5%;
+	width: 100%;
+	margin: auto;
+	height: auto;
+}
+
+.elements {
+	width: 40%;
+	text-align: center;
+	margin: auto;
+}
+
+.elements input[type="text"], .elements input[type="submit"] {
+	text-align: center;
+	width: 49.5%;
+	display: inline;
+	margin-bottom: 1%;
+}
+
+.elements input[type="text"] {
+	margin-right: 1%;
+}
+
+#playagainbtn {
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+
+.footer hr {
+	border-color: white;
+	width: 100%;
+}
+
+.footer {
+	height: auto;
+	width: 100%;
+	bottom: 0;
+    text-align: center;
+	padding: 0.5%;
+}
+
+.altfooter {
+	position: absolute;
+}
+
+.footer p {
+	color: white;
+	margin: 0.5%;
+}
+
+.social-media {
+    text-decoration: none;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 15px;
+    color: white;
+    padding: 10px;
+}
+
+.fa-facebook:hover {
+    color: white;
+    background: #3B5998;
+	text-decoration: none;
+}
+
+.fa-twitter:hover {
+    background: #55ACEE;
+    color: white;
+	text-decoration: none;
+}
+
+.fa-instagram:hover {
+    background: #881a12;
+    color: white;
+	text-decoration: none;
+}
+
+#scoreTableContainer {
+	width: 70% !important;
+	height: auto !important;
+	padding: 1%;
+}
+
+#rankingTableName {
+	font-size: 3em;
+	color: white;
+	text-align: center;
+}
+
+.fa-arrow-up {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+	z-index: 999;
+}
+
+.fa-arrow-up:hover {
+    background-color: white;
+	color: black;
+	text-decoration: none;
+}
+
+.info {
+	color: white;
+	word-wrap: break-word;
+	text-align: center;
+}
+
+.help_header{
+	font-size: 3em;
+}
+
+.help_subheader {
+	font-size: 1.5em;
+	font-weight: lighter;
+	text-decoration: underline;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	.elements {
+		width: 80%;
+	}
+	
+	#scoreTableContainer {
+		width: 90% !important;
+	}
+	
+	.nickname-input {
+		font-size: 0.7em !important;
+	}
+	
+	#question {
+		font-size: 1.1em !important;
+	}
+	
+	label.choice {
+		font-size: 1em !important;
+	}
+	
+	
+}
